@@ -12,3 +12,6 @@
 
 ## 🔍 Specializations
 - 🤖 Computer Vision (YOLO)
+
+- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimenVangen)
+- ![GitHub Streak](https://streak-stats.demolab.com/?user=SimenVangen)
