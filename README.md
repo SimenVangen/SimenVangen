@@ -13,5 +13,5 @@
 ## 🔍 Specializations
 - 🤖 Computer Vision (YOLO)
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimenVangen&layout=compact)
+
 - ![GitHub Streak](https://streak-stats.demolab.com/?user=SimenVangen)
