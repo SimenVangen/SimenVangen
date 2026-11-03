@@ -1,9 +1,5 @@
 # Hi there, I'm Simen Vangen 👋
 
-<p align="center">
-  <img src="assets/snowman.gif" alt="A pixel-art snowman drawn from my GitHub activity" width="256" />
-</p>
-
 ## 👨‍💻 About Me
 - 💼 I’m currently a Freelance AI Engineer
 - 🌱 I’m currently learning implementation of AI in robotics
@@ -24,5 +20,7 @@
 ## Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SimenVangen)
-
+<p align="center">
+  <img src="assets/snowman.gif" alt="A pixel-art snowman drawn from my GitHub activity" width="256" />
+</p>
 <sub>☃️ The snowman is redrawn every night by [git-snowman](https://github.com/SimenVangen/git-snowman): languages color it, contributions build it, streaks decorate it, and yesterday sets its mood.</sub>
