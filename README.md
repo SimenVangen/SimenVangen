@@ -17,10 +17,6 @@
 - 🔥 Deep Learning with PyTorch and TensorFlow
 - 🦾 AI for Robotics: bringing perception and decision-making to robots
 
-## 🏢 My Year in Apartments
-<p align="center">
-  <img src="assets/apartments.gif" alt="An apartment building where every window is a day of 2026, lit on days I contributed" width="100%" />
-</p>
 
 ## Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SimenVangen)
